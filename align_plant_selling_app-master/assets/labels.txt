@@ -1,0 +1,12 @@
+0 apple
+1 blueberry
+2 cherry
+3 corn
+4 grape
+5 peach
+6 pepper
+7 potato
+8 rasperry
+9 soybean_healthy
+10 strawbery
+11 tomato
